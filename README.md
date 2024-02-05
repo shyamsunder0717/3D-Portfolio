@@ -20,12 +20,7 @@ The 3D Portfolio Project is a web-based portfolio website that showcases the cre
 
 ### Installation and Usage
 
-- Clone the repository:
-
-```bash
-git clone https://github.com/your-username/3d-portfolio-project.git
-
-
-
-
-
+## Installation and Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/3d-portfolio-project.git
